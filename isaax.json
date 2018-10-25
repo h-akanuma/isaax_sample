@@ -1,11 +1,11 @@
 {
-	name: "isaax_sample",
-	version: "",
-	description: "",
-	author: "",
-	license: "",
-	language: "",
-	scripts: {
-		start: "python main.py"
+	"name": "isaax_sample",
+	"version": "",
+	"description": "",
+	"author": "",
+	"license": "",
+	"language": "",
+	"scripts": {
+		"start": "python main.py"
 	}
 }
